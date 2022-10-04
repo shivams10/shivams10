@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">, I'm Shivam Shukla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=shivam910&label=Profile%20views&color=0e75b6&style=flat" alt="shivam910" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=shivams10&label=Profile%20views&color=0e75b6&style=flat" alt="shivams10" /> </p>
 
 
 <br/>
@@ -17,13 +17,13 @@
 </div>
 <br/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam910&theme=darkhub" alt="shivam910" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivams10&theme=darkhub" alt="shivams10" /></a> </p>
 
 <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/shivam910" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shivam910" height="30" width="40" /></a>
+<a href="https://dev.to/shivas910" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shivams10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivam shukla"  target="blank"><img src="https://i2.wp.com/www.pmolearning.co.uk/wp-content/uploads/2019/08/linkedin-logo.png?ssl=1" align="center"  alt="shivam shukla" height="30" width="100" /></a>
 </p>
 
@@ -36,10 +36,10 @@
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam910&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivams10&theme=dark)
   
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam910&theme=dark&show_icons=true&locale=en" alt="shivam910" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivams10&theme=dark&show_icons=true&locale=en" alt="shivams10" /></p>
 <br/> <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam910&theme=dark" alt="shivam910" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivams10&theme=dark" alt="shivams10" /></p>
 </div>
