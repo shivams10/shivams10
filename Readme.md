@@ -11,7 +11,7 @@
   I’m currently working as frontend developer intern at GKMIT PVT LTD.  
   
 
-- 🌱 I’m enhancing my frontend skills, DSA skills and writing test cases.  
+- 🌱 I’m enhancing my frontend skills, writing test cases and started explorig react-native.  
   
 
 - 🎓 <b>Education</b> I am pursuing my B.tech degree in Computer Science & Engineering from Poornima College of Engineering  
