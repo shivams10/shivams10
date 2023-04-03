@@ -8,7 +8,7 @@
     
 
 - 🔭 <b>Current Position:</b>
-  I’m currently working as frontend developer intern at GKMIT PVT LTD.  
+  I’m currently working as Junior frontend developer at GKMIT PVT LTD.  
   
 
 - 🌱 I’m enhancing my frontend skills, writing test cases and started explorig react-native.  
