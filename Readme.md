@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img  width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+  <img style={{border-radius: 250px}}  width=300px alt="Unicorn" src="https://i.pinimg.com/originals/73/59/b6/7359b683be08fab1a49f448325f3880e.jpg" />
 </div>  
     
 
