@@ -8,13 +8,13 @@
     
 
 - 🔭 <b>Current Position:</b>
-  I’m currently working as Junior frontend developer ( website/mobile app ) at GKMIT PVT LTD.  
+  I’m currently working as frontend engineer ( website/mobile app ) at GKMIT PVT LTD.  
   
 
 - 🌱 I’m enhancing my frontend skills in mobile apps and website and started exploring backend.   
   
 
-- 🎓 I'm pursuing my B.tech degree in Computer Science & Engineering from Poornima College of Engineering.
+- 🎓 I'm have completed my B.tech degree in Computer Science & Engineering from Poornima College of Engineering.
   
 
 <br/>  
