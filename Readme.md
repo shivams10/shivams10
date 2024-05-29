@@ -92,18 +92,19 @@
 
 <table align="center">
   <tr>
-<td valign="top">
+<td  align="top">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivams10&layout=pie&theme=dark)
 </td>
 <td valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=shivams10&theme=dark&show_icons=true&locale=en&radfasf&arasfda" alt="shivams10" />
+<p><img width="100%" src="https://github-readme-stats.vercel.app/api?username=shivams10&theme=dark&show_icons=true&locale=en&radfasf&arasfda" alt="shivams10" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivams10&theme=dark" alt="shivams10" /></p>
+
 </td>  
   </tr>
 
 </table>  
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivams10&theme=dark" alt="shivams10" /></p>
 <p>"Its always a learning phase"</p>
 </div>
