@@ -94,8 +94,7 @@
   <tr>
 <td valign="top">
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivams10&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivams10&layout=pie&theme=dark)
 </td>
 <td valign="top">
 <img src="https://github-readme-stats.vercel.app/api?username=shivams10&theme=dark&show_icons=true&locale=en&radfasf&arasfda" alt="shivams10" />
