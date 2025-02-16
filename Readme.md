@@ -14,7 +14,7 @@
 - 🌱 I’m enhancing my frontend skills in mobile apps and website and started exploring backend.   
   
 
-- 🎓 I'm have completed my B.tech degree in Computer Science & Engineering from Poornima College of Engineering.
+- 🎓 I have completed my B.tech degree in Computer Science & Engineering from Poornima College of Engineering.
   
 
 <br/>  
