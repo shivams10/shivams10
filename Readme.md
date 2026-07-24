@@ -1,110 +1,85 @@
-  ### <div align="center">Hi! I'm Shivam Shukla, a👨‍💻 passionate front-end developer from India.🚀</div>  
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=shivams10&label=Profile%20views&color=0e75b6&style=flat" alt="shivams10" /> </p>
+<h1 align="center">Hi, I'm Shivam Shukla 👋</h1>
+<h3 align="center">Senior Frontend Engineer · React.js · React Native · Next.js</h3>
 
+<p align="center">
+  Building and scaling production frontend systems for ~4 years — from cross-platform monorepos and mobile releases to performance-critical, SEO-optimized web apps and AI-powered tooling on top of LLM APIs.
+</p>
 
-<div align="center">
-  <img style={{border-radius: 250px}}  width=300px alt="Unicorn" src="https://i.pinimg.com/originals/73/59/b6/7359b683be08fab1a49f448325f3880e.jpg" />
-</div>  
-    
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivam-shukla-4b870b1b3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shivams91099@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-- 🔭 <b>Current Position:</b>
-  I’m currently working as frontend engineer ( website/mobile app ) at GKMIT PVT LTD.  
-  
+---
 
-- 🌱 I’m enhancing my frontend skills in mobile apps and website and started exploring backend.   
-  
+### 🚀 About Me
 
-- 🎓 I have completed my B.tech degree in Computer Science & Engineering from Poornima College of Engineering.
-  
+- 🏢 Senior Frontend Engineer @ **Spark Eighteen** — progressed from Junior → Senior over 3 years
+- 🏗️ Lead frontend architecture across cross-platform products serving **10K+ MAU**
+- 📱 Own end-to-end Android & iOS releases (Play Store / App Store) for React Native apps
+- ⚡ Shipped Next.js apps that took Lighthouse Performance from 65 → 98 and LCP from 2.5s → 0.4s
+- 🤖 Building AI-powered developer tooling — LLM integrations, custom skill files, automated code-review pipelines
+- 👥 Mentor 6–7 junior engineers and lead code reviews for the team
+- 🌱 Currently deepening my work on AI agent workflows and streaming LLM apps
 
-<br/>  
+---
 
+### 🛠️ Tech Stack
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
+**Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
+**Tooling & Platforms**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
- <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img style="margin: 10px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="40"/> </a> 
-</div>
+**AI / LLM**
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 
-</td><td valign="top" width="33%">
+---
 
+### 📌 Featured Project
 
+#### [Chat Nest](https://github.com/shivams10/chat-nest)
+Production-ready AI chat SDK and streaming server with cost controls and cancellation — a ChatGPT-style AI search app built on OpenAI APIs, covering prompt structuring, token optimization, and streaming responses.
 
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.strapi.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/strapi.svg" alt="Strapi" height="50" /></a>  
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
-</div>
+---
 
-</td><td valign="top" width="33%">
+### 📊 GitHub Stats
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivams10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivams10&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivams10&theme=tokyonight&hide_border=true" />
+</p>
 
-### Tools  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
+---
 
-</td></tr></table>  
+### 📫 Connect With Me
 
-<br/>  
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivam-shukla-4b870b1b3/"><img src="https://img.shields.io/badge/-Shivam_Shukla-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <a href="mailto:shivams91099@gmail.com"><img src="https://img.shields.io/badge/-shivams91099@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
+</p>
 
-----
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/shivams10" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/shivam-shukla-4b870b1b3" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-----
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivams10&theme=darkhub" alt="shivams10" /></a> </p>
-
-
-<br/>
-
-<table align="center">
-  <tr>
-<td  align="top">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivams10&layout=pie&theme=dark)
-</td>
-<td valign="top">
-<p><img width="100%" src="https://github-readme-stats.vercel.app/api?username=shivams10&theme=dark&show_icons=true&locale=en&radfasf&arasfda" alt="shivams10" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivams10&theme=dark" alt="shivams10" /></p>
-
-</td>  
-  </tr>
-
-</table>  
-
-<div align="center">
-<p>"Its always a learning phase"</p>
-</div>
+<p align="center"><i>Open to Senior Frontend Engineer roles — React.js / React Native / Next.js</i></p>
